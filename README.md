@@ -1,1 +1,2 @@
 # bravenewworld
+sudo 
